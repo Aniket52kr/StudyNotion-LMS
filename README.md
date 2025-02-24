@@ -1,9 +1,35 @@
 <h1 align="center" id="title">StudyNotion</h1>
 
+
 <p id="description">StudyNotion is an EdTech platform designed to provide an intuitive user-friendly experience for both students and instructors. The platform offers features such as course enrollment payment processing real-time data visualization for instructors and dashboards to track student progress. Built with a Node.js backend React.js frontend and MongoDB database StudyNotion is a scalable and feature-rich solution for online learning.</p>
 
 
+
 <h2>Project Screenshots:</h2>
+
+<img src="https://res.cloudinary.com/dwftlwry2/image/upload/v1740402942/Screenshot_265_ewneqj.png" alt="project-screenshot" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dwftlwry2/image/upload/v1740402941/Screenshot_266_crd8nm.png" alt="project-screenshot" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dwftlwry2/image/upload/v1740402941/Screenshot_267_wzwc51.png" alt="project-screenshot" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dwftlwry2/image/upload/v1740402942/Screenshot_268_o57pbw.png" alt="project-screenshot" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dwftlwry2/image/upload/v1740402941/Screenshot_269_dscef5.png" alt="project-screenshot" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dwftlwry2/image/upload/v1740402942/Screenshot_270_mwciyj.png" alt="project-screenshot" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dwftlwry2/image/upload/v1740402942/Screenshot_271_immwj1.png" alt="project-screenshot" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dwftlwry2/image/upload/v1740402943/Screenshot_272_lyyeao.png" alt="project-screenshot" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dwftlwry2/image/upload/v1740402943/Screenshot_273_qnpqph.png" alt="project-screenshot" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dwftlwry2/image/upload/v1740402943/Screenshot_277_drz51n.png" alt="project-screenshot" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dwftlwry2/image/upload/v1740402943/Screenshot_274_deqxdz.png" alt="project-screenshot" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dwftlwry2/image/upload/v1740402943/Screenshot_276_ybjitx.png" alt="project-screenshot" width="1024" height="400/">
 
 
   
@@ -24,7 +50,7 @@ Here're some of the project's best features:
 <p>1. Clone the repository:</p>
 
 ```
-git clone 
+git clone https://github.com/Aniket52kr/StudyNotion-LMS.git
 ```
 
 <p>2. Navigate to the project directory:</p>
@@ -52,7 +78,7 @@ cd frontend npm install
 <p>7. Start the backend server:</p>
 
 ```
-cd backend npm start
+cd backend nodemon index.js
 ```
 
 <p>8. Start the frontend development server:</p>
@@ -71,11 +97,8 @@ Feel free to fork the repository and make improvements. If you find any bugs or 
 
 Technologies used in the project:
 
-*   React
-*   TailwindCSS
-*   Redux
-*   Node.js
-*   Express.js
-*   MongoDB
-*   JWT
-*   Razorpay
+*   Frontend: React.js, Redux, TailwindCSS
+*   Backend: Node.js, Express.js
+*   Database: MongoDB
+*   Authentication: JWT
+*   Payments: Razorpay
