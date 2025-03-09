@@ -23,10 +23,10 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
 	cors({
-	  origin: "https://studynotion-lms-1.onrender.com",  // Hardcoded Frontend URL
-	  credentials: true,
+		origin: "https://studynotion-lms-1.onrender.com/",
+		credentials:true,
 	})
-  );
+)
 
 app.use(
 	fileUpload({
