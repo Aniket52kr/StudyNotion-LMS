@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:4000/api/v1"
+const BASE_URL = "https://studynotion-lms-backend-gaek7wpba-aniket-bawankars-projects.vercel.app/api/v1"
 
 
 
