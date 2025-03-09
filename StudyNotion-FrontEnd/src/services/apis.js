@@ -1,4 +1,4 @@
-const BASE_URL = "https://studynotion-lms-backend-gaek7wpba-aniket-bawankars-projects.vercel.app/api/v1"
+const BASE_URL = "https://study-notion-lms-9hea.vercel.app/api/v1"
 
 
 
